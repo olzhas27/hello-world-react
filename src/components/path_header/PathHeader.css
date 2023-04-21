@@ -1,0 +1,22 @@
+.page-path {
+    display: flex;
+    flex-direction: column;
+}
+
+.page-path__header {
+    font-size: 55px;
+    padding-bottom: 55px;
+}
+
+.page-path__items {
+    display: flex;
+    gap: 13px;
+}
+
+.page-path__item {
+
+}
+
+.page-path__item:last-child {
+    color: #919191;
+}

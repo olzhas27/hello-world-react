@@ -1,0 +1,52 @@
+.shop-content {
+    padding-top: 190px;
+}
+
+.clothing-types {
+    display: flex;
+    padding-top: 214px;
+    gap: 10px;
+}
+
+.clothing-types__item {
+    border: 1px black solid;
+    padding: 19px 65px;
+}
+
+.clothing-types__item-selected {
+    color: white;
+    background-color: black;
+}
+
+.counter {
+    padding-top: 92px;
+    color: #808080;;
+}
+
+.clothing-list {
+    padding-top: 65px;
+}
+
+.clothing-list__item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.clothing-list__item-image {
+    width: 367px;
+    height: 551px;
+}
+
+.clothing-list__item-coast-and-discount {
+    display: flex;
+    gap: 10px;
+}
+
+.clothing-list__item-discount {
+
+}
+
+.clothing-list__item-coast {
+
+}

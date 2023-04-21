@@ -18,44 +18,21 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-direction: column;
+}
+
+.footer-line-1__contacts {
+    padding-left: 297px;
+}
+
+.footer-line-1__contact-phone {
+    padding-bottom: 9px;
+}
+
+.footer-line-1__contact-email {
+
 }
 
 .footer-line-2 {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.footer-links {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-
-.footer-links__link {
-
-}
-
-.footer-catalog {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-
-.footer-catalog__link {
-
-}
-
-.footer-socials {
-
-}
-
-.footer-socials__link {
-
-}
-
-.footer-pay-systems {
 
 }

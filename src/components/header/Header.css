@@ -1,0 +1,35 @@
+.main-header {
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1110px;
+    margin-top: 51px;
+}
+
+.tel_bucket {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tel_bucket__tel {
+    margin-right: 67px;
+}
+
+.tel_bucket__tel_phone-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 140%;
+    color: #000000;
+    text-decoration: none;
+}
+
+.tel_bucket__bucket {
+
+}

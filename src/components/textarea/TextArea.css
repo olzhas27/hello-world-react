@@ -1,0 +1,10 @@
+.textarea {
+    border: none;
+    border-bottom: 1px black solid;
+    resize: none;
+    overflow: auto;
+}
+
+.textarea:focus {
+    outline: none;
+}
